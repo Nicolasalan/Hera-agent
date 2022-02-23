@@ -1,0 +1,2 @@
+Robot_Task:hera_robot/hera_control:hera_robot/hera_description:hera_robot/hera_head
+-DCATKIN_DEVEL_PREFIX=/home/user/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install -G Unix Makefiles

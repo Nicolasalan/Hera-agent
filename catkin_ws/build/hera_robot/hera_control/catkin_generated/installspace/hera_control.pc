@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: hera_control
+Description: Description of hera_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
